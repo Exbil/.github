@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src=https://i.imgur.com/977chgc.png" alt="Logo">
+    <img src=https://i.imgur.com/ABERqNX.png" alt="Logo">
   </a>
 
   <p align="center">
